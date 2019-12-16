@@ -1,2 +1,2 @@
 # fenDou-web.gitup.io
-wh
+静态服务器
